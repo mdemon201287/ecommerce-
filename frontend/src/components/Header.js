@@ -8,7 +8,7 @@ function Header() {
       <Navbar bg="dark" variant="dark" expand="lg" collapseOnSelect>
         <Container>
         <LinkContainer to='/'>
-          <Navbar.Brand>PhonetasticBd</Navbar.Brand>
+          <Navbar.Brand>Kefayaan</Navbar.Brand>
         </LinkContainer>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">

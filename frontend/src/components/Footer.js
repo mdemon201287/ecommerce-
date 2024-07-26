@@ -6,7 +6,7 @@ function Footer() {
     <footer>
       <Container>
         <Row>
-          <Col className="text-center py-3">Copyright &copy; PhonetasticBd</Col>
+          <Col className="text-center py-3">Copyright &copy; Kefayaan</Col>
         </Row>
       </Container>
     </footer>
